@@ -1,0 +1,25 @@
+body {
+	background-color: dimgray;
+}
+
+h1 {
+	color: goldenrod
+}
+
+p {
+	text-align: center;
+	font-style: italic;
+}
+
+div {
+	background-color: tomato;
+	margin: 1rem;
+}
+
+.box {
+	height: 200px;
+	width: 200px;
+	border: solid 4px indigo;
+	padding: 1rem;
+	text-align: center;
+}
